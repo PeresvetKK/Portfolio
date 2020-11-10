@@ -1150,9 +1150,11 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 	}
-	.sortirovka li a:last-child{
-		margin: 0 auto;
+	.sortirovka a{
+		width: 100%;
 		margin-top: 15px;
+		margin-left: 0px;
+		text-align: center;
 	}
 	.flex-box {
     	width: 170px;
